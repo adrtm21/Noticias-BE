@@ -60,17 +60,6 @@
         "Asimismo, recalcó que no deben seguir en la dirigencia nacional del sindicato “quienes fueron pieza fundamental de la reforma educativa” del gobierno pasado, “la cual solo trajo despidos, persecución y campañas de desprestigio” a los maestros. ",     
         "Apremia al SNTE una nueva cultura democratizadora, desde la base en donde el respeto y la pluralidad sea la piedra angular. Además, un sindicalismo que tenga una interlocución válida con la SEP, basada en una nueva bilateralidad que beneficie a todos: a la educación, a los trabajadores y a México, indicó."]
       },
-      {
-        "id": 8,
-        "name": "Primer megapuente del ciclo escolar 2021-2022 de la SEP será del 29 de octubre al 2 de noviembre",
-        "address": "11 Monmouth Street",
-        "city": "London",
-        "details": ["Este fin de semana se llevará a cabo el primer megapuente de la Secretaría de Educación Pública correspondiente al ciclo escolar 2021-2022, el cual tendrá lugar del 29 de octubre al 2 de noviembre.",
-        "Este primer megapuente es el primero desde que las instituciones de educación básica volvieron a abrir de manera presencial.",        
-        "El 29 de octubre se llevará a cabo la Junta de Consejo Técnico Escolar, por lo que los estudiantes no tendrán clases; el lunes 1 y martes 2 de noviembre se suspenden las labores docentes por las celebraciones del Día de Muertos.",        
-        "Los alumnos regresarán a las escuelas el 3 de noviembre, luego de cinco días sin clases.",        
-        "El pasado 30 de agosto, las escuelas de la SEP reabrieron sus puertas tras más de un año de cierre debido a la pandemia de coronavirus. El regreso a clases presenciales se ha realizado de manera voluntaria, y algunas escuelas han adoptado un modelo mixto para este ciclo escolar."]
-      }
     ],
     
     "noticias": [
@@ -130,13 +119,5 @@
         "categoryId": 3,
         "stock": 10
       },
-      {
-        "id": 8,
-        "name": "External CD Drive USB 3.0 Portable CD DVD +/-RW Drive DVD/CD ROM",
-        "price": 20,
-        "description": "Plug & play. Easy to use,powered by USB port. No external driver and Power needed. Just plug it into your USB port and the DVD driver will be detected",
-        "categoryId": 3,
-        "stock": 10
-      }
     ]
   }
